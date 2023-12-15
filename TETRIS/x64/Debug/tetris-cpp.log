@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\TETRIS\main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tetris-cpp.vcxproj -> G:\TETRIS\x64\Debug\tetris-cpp.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
